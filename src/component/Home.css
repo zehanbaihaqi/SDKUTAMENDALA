@@ -1,0 +1,37 @@
+tr,td {
+    border: 1px solid black;
+}
+
+.removeBorder {
+    border: none;
+}
+
+.inputan {
+    margin-top: 25px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+.add{
+    display: flex;
+    justify-content: center;
+}
+.header{
+    text-align: center;
+}
+.loading{
+         text-align: center;
+}
+.select{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kelamin{
+    display: flex;
+    justify-content: center;
+}
